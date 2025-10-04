@@ -1,0 +1,6 @@
+This is feature 1, file b
+Commit 2
+
+Recheck
+and UPDATED
+Commit 3
